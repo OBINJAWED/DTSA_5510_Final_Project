@@ -1,0 +1,8 @@
+bertopic
+pandas
+matplotlib
+seaborn
+scikit-learn
+spacy
+torch
+plotly
